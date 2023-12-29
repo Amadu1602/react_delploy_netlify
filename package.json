@@ -1,7 +1,7 @@
 {
   "name": "tutorial01",
   "version": "0.1.0",
-  "homepage": "https://Amadu1602.github.io/react_deploy_gh",
+  "homepage": "https://Amadu1602.github.io/react_deploy_netlify",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
